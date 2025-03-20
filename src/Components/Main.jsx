@@ -14,7 +14,7 @@ function Main() {
         {/* Large Main Image */}
         <div className="w-full h-[250px] md:h-full">
           <img
-            src="public/3s.avif"
+            src="/3s.avif"
             alt="Large Main"
             className="w-full h-full object-cover rounded-lg"
           />
@@ -23,17 +23,17 @@ function Main() {
         {/* Small Images Grid */}
         <div className="grid grid-cols-2 grid-rows-2 gap-2">
           <img
-            src="public/2s.avif"
+            src="/2s.avif"
             alt="Photo 2"
             className="w-full h-[120px] md:h-full object-cover rounded-lg"
           />
           <img
-            src="public/1s.avif"
+            src="/1s.avif"
             alt="Photo 3"
             className="w-full h-[120px] md:h-full object-cover rounded-lg"
           />
           <img
-            src="public/4s.avif"
+            src="/4s.avif"
             alt="Photo 4"
             className="w-full h-[120px] md:h-full object-cover rounded-lg"
           />
@@ -41,7 +41,7 @@ function Main() {
           {/* Last Image with "Show all photos" Button */}
           <div className="relative">
             <img
-              src="public/5s.avif"
+              src="/5s.avif"
               alt="Photo 5"
               className="w-full h-[120px] md:h-full object-cover rounded-lg"
             />
