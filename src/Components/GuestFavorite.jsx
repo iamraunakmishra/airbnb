@@ -38,7 +38,7 @@ function VillaDetails() {
 
       <div className="flex items-center gap-3 mt-5 mb-5">
         <img
-          src="public\7s.avif"
+          src="\7s.avif"
           alt="Host"
           className="w-10 h-10 rounded-full"
         />
