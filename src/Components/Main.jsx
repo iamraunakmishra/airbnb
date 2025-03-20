@@ -8,10 +8,10 @@ function Main() {
         Villa La Vida Jalandhar - Luxe FarmStay with Pool
       </h1>
 
-      {/* Image Grid */}
+      
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 rounded-lg overflow-hidden">
         
-        {/* Large Main Image */}
+        
         <div className="w-full h-[250px] md:h-full">
           <img
             src="/3s.avif"
@@ -20,7 +20,7 @@ function Main() {
           />
         </div>
 
-        {/* Small Images Grid */}
+        
         <div className="grid grid-cols-2 grid-rows-2 gap-2">
           <img
             src="/2s.avif"
@@ -38,7 +38,7 @@ function Main() {
             className="w-full h-[120px] md:h-full object-cover rounded-lg"
           />
 
-          {/* Last Image with "Show all photos" Button */}
+         
           <div className="relative">
             <img
               src="/5s.avif"
