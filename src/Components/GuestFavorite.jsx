@@ -18,12 +18,12 @@ function VillaDetails() {
           <span className="text-2xl">🌿</span>
         </div>
 
-        {/* Middle Text */}
+        
         <p className="text-gray-600 text-sm text-center md:text-left">
           One of the most loved homes on Airbnb, according to guests
         </p>
 
-        {/* Rating and Reviews */}
+       
         <div className="flex items-center gap-4">
           <div>
             <span className="text-xl font-semibold">5.0</span>
@@ -48,12 +48,12 @@ function VillaDetails() {
         </div>
       </div>
 
-      {/* Separator */}
+      
       <hr className="mb-4 bg-zinc-300" />
 
-      {/* Feature List */}
+     
       <div className="space-y-4 mt-10 mb">
-        {/* Top 1% of homes */}
+       
         <div className="flex items-start gap-3">
           <span className="text-yellow-500 text-lg mt-1 flex-shrink-0"><FaTrophy /></span>
           <div>
@@ -64,7 +64,7 @@ function VillaDetails() {
           </div>
         </div>
 
-        {/* Perfect ratings from families */}
+       
         <div className="flex items-start gap-3">
           <span className="text-gray-600 text-lg mt-1 flex-shrink-0"><MdFamilyRestroom /></span>
           <div>
@@ -75,7 +75,7 @@ function VillaDetails() {
           </div>
         </div>
 
-        {/* Fun and games for kids */}
+       
         <div className="flex items-start gap-3 border-bottom">
           <span className="text-gray-600 text-lg mt-1 flex-shrink-0"><IoBalloonOutline /></span>
           <div>
